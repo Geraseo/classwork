@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#Joga">Joga</a></li>
+          <li><a href="#Karate">Karate</a></li>
+          <li><a href="#Plaukimas">Plaukimas</a></li>
+          <li><a href="#Begimas">Begimas</a></li>
+          <li><a href="#Rankinis">Rankinis</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <article id="Joga">
+      <h2>Joga</h2>
+      <p>
+        Joga (skr. योग = yoga) – indų filosofijos mokymas, apimantis įvairius
+        fizinius ir mentalinius pratimus kaip asanas, pranajama, meditaciją arba
+        askezę. Jogos teorinis pagrindas – Samkhja, o joga – praktinis
+        išsivadavimo metodas. Kitaip nei samkhja, joga išpažįsta asmenišką
+        aukščiausiąjį Dievą. Joga grindžiama idėja, kad koncentracija,
+        meditacija bei askeze žmogus gali nuraminti dvasią, pasiekti gilesnę
+        įžvalgą ir išsivaduoti iš materialiosios prakriti.[1] Pavadinimas kilęs
+        iš (sanskrito kalbos, योग, yoga, nuo yuga (jungas), yuj reiškia:
+        „surišti, įtempti“ ir gali būti suprantamas kaip „susijungimas,
+        jungtis“.
+      </p>
+      <img
+        src="https://jp.lt/wp-content/uploads/2022/01/LIDLjogospreks2.jpg"
+        style="width: 500px; height: auto"
+        alt=""
+      />
+      <a href="https://lt.wikipedia.org/wiki/Joga">Daugiau...</a>
+    </article>
+    <article id="Karate">
+      <h2>Karate</h2>
+      <p>
+        Karatė (jap. 空手 'tuščia ranka') – Japonijos kovos menas. Egzistuoja
+        keletas karatė stilių. Jie skirstomi į sportinius ir nesportinius.
+        Nesportiniams karatė stiliams priklauso dauguma senųjų Okinavos karatė
+        mokyklų. Šiuo metu Pasaulio karate federacija (WKF, World Karate
+        Federation) yra didžiausia tarptautinė Karatė-do organizacija, kuri
+        vienija daugiau nei 50 milijonų užsiiminėjančių karatė narių.
+        Organizacijai, kurioje yra 176 nacionalinės federacijos, nuo 1998 m.
+        vadovauja Antonio Espinosa. Pasaulio karatė federacijos būstinė yra
+        Ispanijos mieste Madride. 1999 m. karatė kaip sporto šaką pripažino
+        Tarptautinis olimpinis komitetas. Karate kumite, administruojama
+        pasaulio karate federacijos, buvo pretendentas į olimpinę programą 2016
+        m. ir 2020 m. vasaros olimpines žaidynes, bet ją nurungė golfas, regbis
+        (2016 m. programa) ir imtynės (2020 m. programa).
+      </p>
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Karate_WC_Tampere_2006-1.jpg/500px-Karate_WC_Tampere_2006-1.jpg"
+        style="width: 500px; height: auto"
+        alt=""
+      />
+      <a
+        href="https://lt.wikipedia.org/wiki/Karat%C4%97#/media/Vaizdas:Karate_WC_Tampere_2006-1.jpg"
+        >Daugiau...</a
+      >
+    </article>
+    <article id="Plaukimas">
+      <h2>Plaukimas</h2>
+      <p>
+        Plaukimas – aktyvus arba pasyvus judėjimas vandenyje. Sportinio plaukimo
+        tikslas – kuo greičiau įveikti tam tikrą atstumą tam tikru plaukimo
+        būdu. Plaukimas laikomas viena iš sveikiausių sporto šakų, nes judant
+        vandenyje yra mažai apkraunami sąnariai. Be to, vandens temperatūra ir
+        spaudimas skatinančiai veikia medžiagų apykaitą dėl intensyvesnio
+        šilumos atidavimo. Teigiamai veikiama širdis, nuo kurios vandens
+        spaudimas nuima dalį veninio spaudimo. Plaukti gali tiek sveiki, tiek
+        įvairaus sunkumo negalią turintys žmonės. Plaukimo varžybos yra
+        įtrauktos į vasaros Olimpinių žaidynių programą nuo pat jų atkūrimo –
+        1896 m.
+      </p>
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fm_stirling_pool.jpg"
+        style="width: 500px; height: auto"
+        alt=""
+      />
+      <a href="https://lt.wikipedia.org/wiki/Plaukimas">Daugiau...</a>
+    </article>
+    <article id="Begimas">
+      <h2>Begimas</h2>
+      <p>
+        Bėgimas – vienas iš natūraliausių žmogaus judėjimo erdvėje būdų. Bėgimui
+        būdingi pasikartojantys judesiai, sudaryti iš dviejų žingsnių. Po dviejų
+        žingsnių bėgikas kojų, rankų bei liemens judesius toliau kartoja ta
+        pačia eilės tvarka. Lankstant dirba visos pagrindinės žmogaus raumenų
+        grupės. Norint išvengti traumų patartina lavinti ir kitus kūno raumenis,
+        ypač nugaros ir pilvo preso raumenis (liemens srities raumenyną). Taip
+        pat neužmiršti prieš kiekvieną treniruotę atlikti apšilimo pratimus, o
+        po treniruotės – tempimo.[1]
+      </p>
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlin_marathon_2012_am_kleistpark_between_kilometers_21_and_22_30.09.2012_10-08-44.jpg/500px-Berlin_marathon_2012_am_kleistpark_between_kilometers_21_and_22_30.09.2012_10-08-44.jpg"
+        style="width: 500px; height: auto"
+        alt=""
+      />
+      <a href="https://lt.wikipedia.org/wiki/B%C4%97gimas">Daugiau...</a>
+    </article>
+    <article id="Rankinis">
+      <h2>Rankinis</h2>
+      <p>
+        Rankinį 1898 m. sukūrė H. Nielsenas Danijos Ordrupo mieste kūno kultūros
+        pamokoms paįvairinti. Šiuolaikinio rankinio taisyklės susiformavo XX a.
+        pradžioje. Pirmosiose taisyklėse rankinio rungtynėse žaisdavo po 11
+        kiekvienos komandos žaidėjų, aikštė buvo didesnė nei šiuolaikinė.
+        Dažniausiai buvo žaidžiama lauke. 1928 m. Amsterdame įkurta Tarptautinė
+        mėgėjų rankinio federacija (angl. International amateur Handball
+        Federation, IAHF), 1936 m. rankinio turnyras pirmą kartą surengtas
+        Berlyno olimpinėse žaidynėse.
+      </p>
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Handball_Bosnia_Greece.jpeg"
+        style="width: 500px; height: auto"
+        alt=""
+      />
+      <a href="https://lt.wikipedia.org/wiki/Rankinis">Daugiau...</a>
+    </article>
+    <br />
+    <hr />
+    <br />
+    <footer style="text-align: center">Kopijuoti draudziama©</footer>
+  </body>
+</html>
